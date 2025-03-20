@@ -1,28 +1,27 @@
-## Hi there 👋
-- I am Chandresh with**6+ years** of experience as a software engineer. 
-- 🚀 I have good experince in developing scalable web applications, optimizing databases, and integrating third-party systems.  
-- 🌍 I specialize in building high-performance, secure, and reliable applications using:  
-   - **PHP (Laravel)**  
-   - **Node.js (Express.js)**  
-   - **Python (Flask)**  
-   - **Scala (Play)**  
-   - **AWS cloud services**
+## 👋 Hi there
+- I am Chandresh with **6+ years** of experience as a software engineer. 
+- I have good experience in developing scalable web applications, optimizing databases, and integrating third-party systems.  
+- The Projects I've Worked On
+  - **Payment Processing System** – Developed a high-performance payment system handling **1,000+ transactions/minute** at **Zomentum** using **PHP (Laravel)** and **AWS**
+  - **Client Portal** - Developed a client portal to reduce the support work at **Zomentum** using **PHP (Laravel)**
+  - **QuickCap** - Enhanced a quick adjudication software at **Meditab** using **PHP**
+  - **Shopify Inventory Manager** – Built an inventory management app for the **Shopify App Store** at **Buzzinga** using **Node.js (Express.js)** and **MongoDB**
+  - **Report Server** - Built an report server using **Node.js**
+  - **QuickLinx** – Built an app to access catalog details using QRCode at **Buzzinga** using **Python**
 ## 💻**Technologies**  
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="Scala" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" height="40" alt="AWS" />
-</p>
+| **Category** | **Technologies** |
+|:--------------|:-----------------|
+| **Languages** | <img src="https://www.php.net/images/logos/new-php-logo.svg" height="20px"> PHP, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="20px"> Node.js, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="20px"> Python, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="20px"> JavaScript, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" height="20px"> Scala, SQL |
+| **Frameworks** | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="20px"> Laravel, Express.js, Flask, Play, Livewire, Alpine.js |
+| **Databases** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="20px"> MySQL, MS SQL, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="20px"> PostgreSQL, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="20px"> MongoDB, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="20px"> Redis Cache |
+| **Development** | Database Design & Architecture, REST API, API Integration, Webhook |
+| **AI Tools** | OpenAI, Anthropic Claude, Cursor AI, Bolt AI, Copilot |
+| **Version Control** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="20px"> GitHub, GitLab |
+| **Cloud** | <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="20px"> AWS (EC2, S3, RDS, Serverless, EventBridge, Elastic Beanstalk, Lambda) |
+| **Tools** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="20px"> Docker, Sentry, Horizon, Datadog |
+| **Testing** | PHPUnit |
+
 
 ## 🤖 **AI Interests** 
 🔹 Exploring AI techniques like **RAG (Retrieval-Augmented Generation)** for better real-time data analysis.  

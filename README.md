@@ -1,5 +1,5 @@
 ## 👋 Hi there
-- I am Chandresh with **6+ years** of experience as a software engineer. 
+- I am chandresh with **6+ years** of experience as a software engineer. 
 - I have good experience in developing scalable web applications, optimizing databases, and integrating third-party systems.  
 - The Projects I've Worked On
   - **Payment Processing System** – Developed a high-performance payment system handling **1,000+ transactions/minute** at **Zomentum** using **PHP (Laravel)** and **AWS**

@@ -2,12 +2,13 @@
 - I am chandresh with **6+ years** of experience as a software engineer. 
 - I have good experience in developing scalable web applications, optimizing databases, and integrating third-party systems.  
 - The Projects I've Worked On
-  - **Payment Processing System** – Developed a high-performance payment system handling **1,000+ transactions/minute** at **Zomentum** using **PHP (Laravel)** and **AWS**
-  - **Client Portal** - Developed a client portal to reduce the support work at **Zomentum** using **PHP (Laravel)**
+  - **Payment Processing System** – Developed a high-performance payment system handling **1,000+ transactions/minute** at **Zomentum**
+  - **Client Portal** - Developed a client portal to reduce the support work at **Zomentum**
   - **QuickCap** - Enhanced a quick adjudication software at **Meditab** using **PHP**
   - **Shopify Inventory Manager** – Built an inventory management app for the **Shopify App Store** at **Buzzinga** using **Node.js (Express.js)** and **MongoDB**
   - **Report Server** - Built an report server using **Node.js**
   - **QuickLinx** – Built an app to access catalog details using QRCode at **Buzzinga** using **Python**
+  - **SQL-AI-Agent** – Built a SQL AI Agent that can give results to a natural query using  **Python**, **FastAPI**, **OpenAI** and **Anthropic**
 ## 💻**Technologies**  
 
 | **Category** | **Technologies** |

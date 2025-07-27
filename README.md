@@ -3,12 +3,14 @@
 - I have good experience in developing scalable web applications, optimizing databases, and integrating third-party systems.  
 - The Projects I've Worked On
   - **Payment Processing System** – Developed a high-performance payment system handling **1,000+ transactions/minute** at **Zomentum**
-  - **Client Portal** - Developed a client portal to reduce the support work at **Zomentum**
+  - **Feedback Collection Application** – Built a high-performance feedback system for an enterprise client using **Ruby on Rails**, **PostgreSQL**, and **React.js**.
+  - **Client Portal** - Developed a client portal for the payment application to reduce the support work at **Zomentum**
   - **QuickCap** - Enhanced a quick adjudication software at **Meditab** using **PHP**
-  - **Shopify Inventory Manager** – Built an inventory management app for the **Shopify App Store** at **Buzzinga** using **Node.js (Express.js)** and **MongoDB**
+  - **Shopify Inventory Manager** – Built an inventory management app for the **Shopify App Store** at **Buzzinga** using **Node.js (Express.js)**, **MongoDB** and **React.js**
   - **Report Server** - Built an report server using **Node.js**
-  - **QuickLinx** – Built an app to access catalog details using QRCode at **Buzzinga** using **Python**
-  - **SQL-AI-Agent** – Built a SQL AI Agent that can give results to a natural query using  **Python**, **FastAPI**, **OpenAI** and **Anthropic**
+  - **QuickLinx** – Built an app to access catalog details using QRCode at **Buzzinga** using **Python** and **Next.js**
+  - **SQL-AI-Agent** – Built a SQL AI Agent that can give results to a natural query using  **Python**, **FastAPI**, **OpenAI**, and **Anthropic**
+  - **Chatbot** – Developed an intelligent chatbot for the company website to answer queries about company background, projects, and pricing using **Node.js**, **LangGraph**, **OpenAI**, and **VectorDB**.
 ## 💻**Technologies**  
 
 | **Category** | **Technologies** |
